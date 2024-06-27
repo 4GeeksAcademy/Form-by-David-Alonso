@@ -1,0 +1,59 @@
+
+body {
+
+    font-family: "Josefin Sans", sans-serif;
+    background-color: rgb(246, 238, 232)
+
+    
+    
+}
+
+.card-header, .card-footer {
+    background-color: rgb(62, 50, 45);
+    color: white;
+    background-image: url("/content/texture_form2.webp");
+    background-blend-mode: soft-light;
+
+}
+.cancel, .send {
+    color: rgb(58, 39, 18);
+}
+.cancel {
+    background-color: rgb(227, 213, 201);
+}
+.icons {
+    
+    color: white;
+}
+.bg-mint {
+
+    background-color: rgb(108, 87, 78);
+    
+
+}
+.form-Body {
+    background-image: url("/content/grain-texture.webp");
+}
+.card {
+    border: 1px, solid, rgb(214, 202, 197);
+    
+}
+.row {
+    margin: 0;
+
+}
+input {
+   
+    padding: 10px; /* Espacio interno */
+    accent-color: rgb(108, 87, 78);
+
+}
+p, span {
+    color: rgb(108, 87, 78);
+}
+label {
+    margin-top: 10px;
+    margin-bottom: 1px;
+    color: rgb(108, 87, 78);
+}
+
